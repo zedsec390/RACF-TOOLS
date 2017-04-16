@@ -1,7 +1,5 @@
 # RACF / DES Cracking 
 
-### Rexxes
-
 [des](https://github.com/zedsec390/RACF-TOOLS/blob/master/des.py) - des.py - Basic python class to generate RACF Des type hashes
 
 [rvary](https://github.com/zedsec390/RACF-TOOLS/blob/master/rvary.py) - rvary.py - example of how to generate rvary hashes using des.py
